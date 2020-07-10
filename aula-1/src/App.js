@@ -1,8 +1,9 @@
 import React from "react";
+import TimeLine from './pages/TimeLine/TimeLine'
 
-function App(){
+const App=() =>{
   return(
-    <p>ooi</p>
+    <TimeLine/>
   )
 }
 
